@@ -10,7 +10,7 @@ Ensure the following libraries are installed before running the project:
 - **Python >= 3.8**
 Install dependencies using:
 ```bash
-pip install -r [requirements.txt](http://_vscodecontentref_/2)
+pip install -r requirements.txt
 ```
 
 ## 🚀 How to Run
