@@ -27,7 +27,7 @@ pip install -r [requirements.txt](http://_vscodecontentref_/2)
    ```
    Train MobileNetV2:
    ```bash
-   python src/train_mobilenet.py
+   python src/train_vgg.py
    ```
 
 3. **Apply Model Fusion Techniques**
