@@ -1,7 +1,7 @@
 # Image Classification Using Model Fusion (ResNet + MobileNet)
 
 ## 🚀 Overview
-This project focuses on image classification using **ResNet-18** and **MobileNetV2**, leveraging **Late Fusion** and **Stacking (Meta-Learning)** techniques to enhance classification accuracy.
+This project focuses on image classification using **ResNet-18** and **VGG16**, leveraging **Late Fusion** and **Stacking (Meta-Learning)** techniques to enhance classification accuracy.
 
 
 ## 🔧 Dependencies
