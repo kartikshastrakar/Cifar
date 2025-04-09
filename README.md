@@ -46,15 +46,7 @@ pip install -r requirements.txt
    python src/evaluation_metrics.py
    ```
 
-## 📊 Results
-| Model         | Accuracy | Precision | Recall | F1 Score |
-|---------------|----------|-----------|--------|----------|
-| ResNet-18     | 89.4%    | 89.3%     | 89.1%  | 89.2%    |
-| MobileNetV2   | 90.1%    | 90.0%     | 89.9%  | 90.0%    |
-| Late Fusion   | 92.3%    | 92.1%     | 92.0%  | 92.1%    |
-| Stacking      | 94.2%    | 94.1%     | 94.0%  | 94.1%    |
 
-Confusion matrices for ResNet, MobileNet, Late Fusion, and Stacking are provided in `evaluation_metrics.py`.
 
 ### Improvements Made:
 1. **Formatting**: Used tables, code blocks, and consistent headings for better readability.
